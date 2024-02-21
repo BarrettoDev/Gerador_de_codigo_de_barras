@@ -1,2 +1,3 @@
 **/__Pycache__
+.pytest_cache
 .venv
